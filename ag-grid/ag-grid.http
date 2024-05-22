@@ -1,0 +1,6 @@
+@ag_grid_HostAddress = http://localhost:5001
+
+GET {{ag_grid_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
